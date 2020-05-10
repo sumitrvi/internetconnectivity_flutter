@@ -1,0 +1,4 @@
+#Sun May 10 12:03:37 IST 2020
+base.0=/Users/theninehertz/Desktop/hybrid/sumit/Flutterprojects/internet_connectivity/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
